@@ -73,7 +73,7 @@ Learning|Listening|Reading|
 |![roadmap.sh](https://roadmap.sh/manifest/icon32.png) Prompt & AI Engineering|Lenny’s Podcast|AI Engineering
 |![roadmap.sh](https://roadmap.sh/manifest/icon32.png) Software Design & Architecture|Marina Wyss AI & Machine Learning|
 |![roadmap.sh](https://roadmap.sh/manifest/icon32.png) API Design|Tina Huang|
-|![roadmap.sh](https://roadmap.sh/manifest/icon32.png) Associate AI Engineer for Developers|Pooja Dutt|
+|![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Associate AI Engineer for Developers|Pooja Dutt|
 |![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) Associate Python Developer|AI.Engineer|
 
 
